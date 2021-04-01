@@ -14,6 +14,21 @@ html{
         padding: 0 80px;
         margin: auto;
 }
+/*Scrollbars*/
+
+
+::-webkit-scrollbar{
+	width:12px;
+}
+
+::-webkit-scrollbar-thumb{
+	background: linear-gradient(#dc143c ,#dc143c);
+	border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover{
+	background: linear-gradient(#24caac, #24caac);
+
+}
 
 
 /* nav bar styling */
