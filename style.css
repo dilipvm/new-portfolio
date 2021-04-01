@@ -181,7 +181,7 @@ html{
     transition: all 0.36s ease;
 }
 
-.about .about-content .right a:hover{
+.about .about-content a:hover{
     color:crimson;
     background: none;
 }
